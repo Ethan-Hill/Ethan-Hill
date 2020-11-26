@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethan-hill&label=Profile%20views&color=a647e6&style=flat" alt="ethan-hill" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ethan-hill" alt="ethan-hill" /></a> </p>
-
 - 🔭 I’m currently working on [Nuxify](https://github.com/Ethan-Hill/Nuxify)
 
 - 🌱 I’m currently learning **NuxtJS and TailwindCSS**
@@ -34,4 +32,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ethan-hill&show_icons=true&locale=en&layout=compact" alt="ethan-hill" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ethan-hill&show_icons=true&theme=dark&locale=en" alt="ethan-hill" /></p>
-
