@@ -28,5 +28,5 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ethan-hill&show_icons=true&locale=en&layout=compact" alt="ethan-hill" /></p>
-
+<br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ethan-hill&show_icons=true&theme=dark&locale=en" alt="ethan-hill" /></p>
