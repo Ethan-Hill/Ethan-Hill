@@ -26,7 +26,4 @@
 <a href="https://codesandbox.com/ethan hill" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="ethan hill" height="30" width="40" /></a>
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ethan-hill&show_icons=true&locale=en&layout=compact" alt="ethan-hill" /></p>
-<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ethan-hill&show_icons=true&theme=dark&locale=en" alt="ethan-hill" /></p>
