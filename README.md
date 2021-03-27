@@ -11,6 +11,6 @@
 
 - 📫 How to reach me **ethanhilljay@outlook.com**
 
-- 📄 Know about my experiences [Resume](https://www.scribd.com/document/489295012/CV)
+- 📄 Know about my experiences [Resume](https://www.scribd.com/document/500571163/Ethan-Hill-CV)
 
 - ⚡ Fun fact **Im a rugby union player**
