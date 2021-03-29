@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NuxtJS and TailwindCSS**
 
-- 👨‍💻 All of my projects are available at [https://ethan-hill.github.io/](https://ethan-hill.github.io/)
+- 👨‍💻 All of my projects are available at [https://ethanhill.dev](https://ethanhill.dev)
 
 - 💬 Ask me about **Vue and Nodejs**
 
