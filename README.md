@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethan-hill&label=Profile%20views&color=a647e6&style=flat" alt="ethan-hill" /> </p>
 
-- 🌱 I’m currently learning **NuxtJS and TailwindCSS**
-
 - 👨‍💻 All of my projects are available at [https://ethanhill.dev](https://ethanhill.dev)
 
 - 💬 Ask me about **Vue and Nodejs**
